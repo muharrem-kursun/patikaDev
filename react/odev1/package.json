@@ -1,0 +1,23 @@
+{
+  "name": "odev1",
+  "version": "1.0.0",
+  "description": "patika react odev1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muharrem-kursun/patikaDev/react"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "muharrem",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
